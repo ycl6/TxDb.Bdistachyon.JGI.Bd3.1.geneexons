@@ -1,0 +1,20 @@
+Package: TxDb.Bdistachyon.JGI.Bd3.1.geneexons
+Title: Annotation package for TxDb object(s) for Brachypodium distachyon (JGI version 3.1)
+Description: This annotation database was generated with Bdistachyon_314_v3.1.gene_exons.gff3.gz obtained from Phytozome v11 (https://phytozome.jgi.doe.gov/).
+Version: 1.0.0
+Author: I-Hsuan Lin
+Maintainer: I-Hsuan Lin <ycl6.gel@gmail.com>
+Depends: GenomicFeatures (>= 1.21.30)
+Imports: AnnotationDbi
+Suggests:
+License: Artistic-2.0
+organism: Brachypodium distachyon Bd21
+species: Brachypodium distachyon
+common_name: Purple false brome
+provider: DOE-JGI Phytozome v11
+provider_version: 3.1
+release_date: 2016-01-12
+release_name: Phytozome v11
+source_url: https://phytozome.jgi.doe.gov/pz/portal.html#!info?alias=Org_Bdistachyon
+biocViews: AnnotationData, Genetics, TxDb, Bdistachyon
+
